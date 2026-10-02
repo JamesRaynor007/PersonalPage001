@@ -1,0 +1,4 @@
+# Scratch scripts and temporary files
+*.ps1
+.DS_Store
+Thumbs.db
